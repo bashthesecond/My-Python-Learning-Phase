@@ -1,0 +1,19 @@
+import turtle
+
+def draw_pat_1(nm, no, sz):
+    nm.right(180)
+    for n in range(no):
+        nm.left(-89)
+        nm.forward(sz)
+        sz = sz + 5
+
+wn = turtle.Screen()
+wn.title("First Pattern")
+wn.bgcolor("lightgreen")
+
+bash = turtle.Turtle()
+bash.color("blue")
+bash.pensize(4)
+
+draw_pat_1(bash, 100, 10)
+wn.mainloop()
