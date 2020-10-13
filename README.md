@@ -1,2 +1,3 @@
-# My-Python-Learning-Phase
-Last year I made a conscious decision to take a dive in the world if computing, so I am reading mathematics again, working on data sciences, tried my hands on some basic HTML/CSS tags and now python. Hi, I am documenting what I learn to get familiar with developer's tools. Welcome to my python learning phase.
+My-Python-Learning-Phase
+Last year I made a conscious decision to take a dive into the world of computing, so I am learnt some cool python tricks. I am learning syntax, commands and key programming concepts. I am documenting this for reference purposes, lets see how far I go.
+Hello Python!
